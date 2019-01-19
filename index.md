@@ -1,8 +1,19 @@
 ---
-layout: home
-classes:
-  - landing
-  - dark-theme
+layout: default
 ---
 
-![ac](assets/img/ac.png){: height="150px" width="150px"}
+
+![ac](assets/img/ac.png)
+
+### What
+
+<dl>
+<dt>Name</dt>
+<dd>Godzilla</dd>
+<dt>Born</dt>
+<dd>1952</dd>
+<dt>Birthplace</dt>
+<dd>Japan</dd>
+<dt>Color</dt>
+<dd>Green</dd>
+</dl>
