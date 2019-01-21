@@ -32,8 +32,6 @@ sidebar:
 #     image_path: https://farm5.staticflickr.com/4029/4697523701_249e93ba23_q.jpg
 #     alt: "Made for open text placement"
 ---
-{% include gallery id="gallery" caption="This is a sample gallery with **Markdown support**." %}
-{% include gallery id="gallery2" layout="half" caption="This is a second gallery example with images hosted externally." %}
 
 Section 1.10.32 of "de Finibus Bonorum et Malorum", written by Cicero in 45 BC
 
