@@ -1,14 +1,7 @@
 ---
 layout: tag
 
-sidebar:
-  - title: "Title"
-    image: http://placehold.it/300x200
-    image_alt: "image"
-    text: "Some text here."
-  - title: "Another Title"
-    text: "More text here."
-    nav: sidebar-sample
+
 
 gallery:
   - url: /assets/img/ac.png
