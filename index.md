@@ -1,19 +1,26 @@
 ---
 layout: tag
 
-
+sidebar:
+  - title: "Title"
+    image: http://placehold.it/300x200
+    image_alt: "image"
+    text: "Some text here."
+  - title: "Another Title"
+    text: "More text here."
+    nav: sidebar-sample
 
 gallery:
-  - url: /assets/img/ac.png
-    image_path: /assets/img/ac.png
+  - url: ./assets/img/ac.png
+    image_path: ./assets/img/ac.png
     alt: "placeholder image 1"
     title: "Image 1 title caption"
-  - url: /assets/img/ac.png
-    image_path: /assets/img/ac.png
+  - url: ./assets/img/ac.png
+    image_path: ./assets/img/ac.png
     alt: "placeholder image 2"
     title: "Image 2 title caption"
-  - url: /assets/img/ac.png
-    image_path: /assets/img/ac.png
+  - url: ./assets/img/ac.png
+    image_path: ./assets/img/ac.png
     alt: "placeholder image 3"
     title: "Image 3 title caption"
 
