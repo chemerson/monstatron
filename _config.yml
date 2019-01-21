@@ -34,7 +34,7 @@ sidebar:
 
 author:
   name     : "Author Name"
-  avatar   : "/assets/img/ac.png"
+  avatar   : "./assets/img/ac.png"
   bio      : "My awesome biography constrained to a sentence or two goes here."
   location : "Somewhere, USA" 
 
