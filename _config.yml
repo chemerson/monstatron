@@ -13,19 +13,47 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MONSTATRON LIVES!
+masthead_title: Under construction - please move along, nothing to see here yet
 email: noemailyet
-description: >- # this means to ignore newlines until "baseurl:"
-  Lurking in the depths of the chambers of darkness and destruction. The vile world of Monstatron.
+description: "Lurking in the depths of the chambers of darkness and destruction. The vile world of Monstatron."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: twitterusername
 github_username:  gitHubusername
 
+logo: "/assets/img/ac.png"
+
+sidebar:
+  - title: "Title"
+    image: http://placehold.it/350x250
+    image_alt: "image"
+    text: "Some text here."
+  - title: "Another Title"
+    text: "More text here."
+    nav: sidebar-sample
+
+author:
+  name     : "Author Name"
+  avatar   : "/assets/img/ac.png"
+  bio      : "My awesome biography constrained to a sentence or two goes here."
+  location : "Somewhere, USA" 
+
+social:
+  type:  # Person or Organization (defaults to Person)
+  name:  # If the user or organization name differs from the site's name
+  links:
+    - "https://twitter.com/yourTwitter"
+    - "https://facebook.com/yourFacebook"
+    - "https://instagram.com/yourProfile"
+    - "https://www.linkedin.com/in/yourprofile"
+    - "https://plus.google.com/your_profile"
+
+# layout: single
+
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-hacker
-minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "plum" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 plugins:
   - jekyll-feed
 
