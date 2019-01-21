@@ -14,6 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 masthead_title: Under construction - please move along, nothing to see here yet
+title: Under construction - please move along, nothing to see here yet
 email: noemailyet
 description: "Lurking in the depths of the chambers of darkness and destruction. The vile world of Monstatron."
 baseurl: "" # the subpath of your site, e.g. /blog
