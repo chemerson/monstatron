@@ -21,7 +21,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: twitterusername
 github_username:  gitHubusername
 
-logo: "/assets/img/ac.png"
+logo: "./assets/img/ac.png"
 
 sidebar:
   - title: "Title"
