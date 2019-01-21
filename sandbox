@@ -1,0 +1,3 @@
+{% include gallery id="gallery" caption="This is a sample gallery with **Markdown support**." %}
+{% include gallery id="gallery2" layout="half" caption="This is a second gallery example with images hosted externally." %}
+{% include figure image_path="./assets/img/ac.png" alt="this is a placeholder image" caption="This is a figure caption." %}

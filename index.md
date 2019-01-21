@@ -39,5 +39,5 @@ Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolor
 
 ![ac](./assets/img/ac.png) Where does this end up? Right under the picture, but is it a caption
 
-{% include figure image_path="./assets/img/ac.png" alt="this is a placeholder image" caption="This is a figure caption." %}
+
 
