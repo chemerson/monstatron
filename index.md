@@ -10,8 +10,8 @@ sidebar:
     nav: sidebar-sample
 
 gallery:
-  - url: /assets/img/ac.png
-    image_path: /assets/img/ac.png
+  - url: ./assets/img/ac.png
+    image_path: ./assets/img/ac.png
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: ./assets/img/ac.png
